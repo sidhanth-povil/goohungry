@@ -1,4 +1,4 @@
-# goohungry
+# Goohungry
 Product Landing page for Goohungry Super Foods
 
 ## Built With
